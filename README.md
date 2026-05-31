@@ -45,6 +45,13 @@ for web UI and REST APIs.
 
 ---
 
+[![DemoQA Selenide Tests](https://github-readme-stats.vercel.app/api/pin/?username=BermetB16&repo=selenide-cucumber--demoqa)](https://github.com/BermetB16/selenide-cucumber--demoqa)
+
+> **UI Automation** — Selenide 7 • Cucumber 7 • JUnit 5 • Gradle
+> BDD with Gherkin • Page Object Model • demoqa.com
+
+---
+
 [![RestAssured API Tests](https://github-readme-stats.vercel.app/api/pin/?username=BermetB16&repo=RestAssured_Api)](https://github.com/BermetB16/RestAssured_Api)
 
 > **API Automation** — Solo project
